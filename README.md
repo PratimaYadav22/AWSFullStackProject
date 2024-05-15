@@ -38,7 +38,8 @@
   			- REACT_APP_DYNAMODB_URL= <InputDataToDynamoDB_APIEndpoint>
 12. Go to my-upload-app/ root directory where app.js is placed:
    1. cd ..\my-upload-app\
-   2. npm start
+   2. npm install
+   3. npm start
 13. upload input files for testing.
 
 ### Project Result
