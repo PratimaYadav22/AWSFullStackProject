@@ -12,7 +12,7 @@
 1. Clone the repository. 
    - git clone <repo_link>
 2. Go to Root of the project(for downloding the dependencies i.e. node module run below commands):
-   - cd Fovus1Project
+   - cd FovusFullStackProject
 	- npm install
 3. cd lambda/dynamoDBEventEC2Instance/
 	- npm install
@@ -23,7 +23,7 @@
 6. Go to Script Directory and run the keypairCreation.bat  for key pair creation for EC2 instance to make sure that the keypair exists if not then it will create a new one:
    - cd ../../script/
    - .\keypairCreation.bat
-8. Now go to root directory. (i.e. in fovus1project)
+8. Now go to root directory. (i.e. in FovusFullStackProject)
    - cd ..
 9. cdk bootstrap
 10. cdk deploy
