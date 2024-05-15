@@ -12,7 +12,7 @@
 1. Clone the repository. 
    - git clone <repo_link>
 2. Go to Root of the project(for downloding the dependencies i.e. node module run below commands):
-   - cd FovusFullStackProject
+   - in FovusFullStackProject directory
 	- npm install
 3. cd lambda/dynamoDBEventEC2Instance/
 	- npm install
