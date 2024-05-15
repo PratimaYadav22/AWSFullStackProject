@@ -1,4 +1,4 @@
-# Fovus1Project
+# FovusFullStackProject
 
 ### Prerequisites
 - Download node.js and install npm.
