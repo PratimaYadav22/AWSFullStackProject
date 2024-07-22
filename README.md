@@ -1,4 +1,4 @@
-# FovusFullStackProject
+# AWSFullStackProject
 
 ### Prerequisites
 - Download node.js and install npm.
